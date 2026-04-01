@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black; 
+   color: white;
+}
+strong {
+    color: #00ffff;
+}
+
+.titulo-destaque{
+    color: #00ffff;   
+}
